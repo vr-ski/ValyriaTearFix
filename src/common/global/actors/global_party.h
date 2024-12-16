@@ -15,6 +15,8 @@
 
 #include <vector>
 
+#include <boost/cstdint.hpp>
+
 namespace vt_global
 {
 
