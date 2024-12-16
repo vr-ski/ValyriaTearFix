@@ -1,0 +1,6 @@
+[submodule "src/luabind"]
+	path = src/luabind
+	url = https://github.com/Oberon00/luabind
+[submodule "src/utils"]
+	path = src/utils
+	url = https://github.com/vr-ski/vt-utils-fix
