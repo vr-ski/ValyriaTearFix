@@ -4,7 +4,7 @@
 	branch = master
 
 [submodule "src/utils"]
-       path = src/utils
-       url = https://github.com/vr-ski/vt-utils-fix
+	path = src/utils
+	url = https://github.com/vr-ski/vt-utils-fix
        branch = master
 
